@@ -1,0 +1,134 @@
+<template>
+  <div class="result">
+    <h1>Was jetzt passiert, liegt nicht mehr in deinen Händen.</h1>
+    <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1549 1182">
+    <defs>
+    <path id="p1"  d="M -12,541 C -483,400 -291,1 0,-100 127,-133 143,583 -12,541 z" />
+    <path id="p2" d="m 0,200 c 17,-215 -100,-188 0,-300 191,-170 -29,1018 0,300 z"  />
+    <path id="p3" d="M 156,202 C 135,99 64,69 99,-93 205,-398 373,118 356,204 319,429 184,324 156,202 z" />
+    <path id="p4" d="M -4,537 C -541,423 -355,-291 -9,-263 409,-212 532,650 -4,537 z"  />
+    <path id="p5" d="M -6,313 C -149,365 -205,-554 329,-293 847,11 135,261 -6,313 z" />
+    <path id="p6" d="m -351,431 c 94,-249 671,-473 702,-188 31,285 -797,438 -702,188 z" />
+    <path id="w1" d="m -1095,239 c 539,-32 2063,-73 1957,-9 -607,189 -2534,51 -1957,9 z" />
+    </defs>
+
+    <g id="black" >
+    <path d="m 1300,300 c -78,0 -142,48 -142,141 0,93 97,194 142,274 l 0,-415 z" id="path5403" style="fill:#666">
+    <animateMotion dur="50" repeatCount="indefinite"><mpath xlink:href="#p2"/></animateMotion></path>
+    <path d="m 1300,300 c 78,0 142,48 142,141 0,93 -97,194 -142,274 l 0,-415 z" id="path6181" style="fill:#797979">
+    <animateMotion dur="50" repeatCount="indefinite"><mpath xlink:href="#p2"/></animateMotion></path>
+    <path d="m 1300,710 -21,24 21,0 z" id="path6183" style="fill:#797979">
+    <animateMotion dur="50" repeatCount="indefinite"><mpath xlink:href="#p2"/></animateMotion></path>
+    <path d="m 1300,710 21,24 -21,0 z" id="path6188" style="fill:#666">
+    <animateMotion dur="50" repeatCount="indefinite"><mpath xlink:href="#p2"/></animateMotion></path>
+    <path d="m 1217,520 c 0,0 -25,-31 -25,-76 0,-44 28,-68 28,-68" id="path6190" style="fill:none;stroke:#797979;stroke-width:35;stroke-linecap:round">
+    <animateMotion dur="50" repeatCount="indefinite"><mpath xlink:href="#p2"/></animateMotion></path>
+    <circle cx="1264" cy="340" r="22" fill="#797979"><animateMotion dur="50" repeatCount="indefinite"><mpath xlink:href="#p2"/></animateMotion></circle>
+    </g>
+    <path fill="#eee" d="M 1129 83 C 1058 83 999 132 999 193 C 999 199 1000 205 1001 211 C 891 213 804 246 804 286 C 804 327 897 361 1012 361 C 1082 361 1144 348 1182 329 C 1204 341 1233 348 1265 348 C 1337 348 1396 311 1396 265 C 1396 219 1337 182 1265 182 C 1263 182 1260 182 1258 182 C 1251 126 1196 83 1129 83 z ">
+    <animateMotion dur="100" repeatCount="indefinite"><mpath xlink:href="#w1"/></animateMotion></path>
+    <g id="green">
+    <path d="m 300,600 c -78,0 -142,48 -142,141 0,93 97,194 142,274 l 0,-415 z" style="fill:#7c916f">
+    <animateMotion dur="20" repeatCount="indefinite"><mpath xlink:href="#p3"/></animateMotion></path>
+    <path d="m 300,600 c 78,0 142,48 142,141 0,93 -97,194 -142,274 l 0,-415 z" style="fill:#98a88e">
+    <animateMotion dur="20" repeatCount="indefinite"><mpath xlink:href="#p3"/></animateMotion></path>
+    <path d="m 300,1010 -21,24 21,0 z" style="fill:#98a88e">
+    <animateMotion dur="20" repeatCount="indefinite"><mpath xlink:href="#p3"/></animateMotion></path>
+    <path d="m 300,1010 21,24 -21,0 z" style="fill:#7c916f">
+    <animateMotion dur="20" repeatCount="indefinite"><mpath xlink:href="#p3"/></animateMotion></path>
+    <path d="m 210,810 c 0,0 -25,-31 -25,-76 0,-44 28,-68 28,-68" style="fill:none;stroke:#98a88e;stroke-width:35;stroke-linecap:round">
+    <animateMotion dur="20" repeatCount="indefinite"><mpath xlink:href="#p3"/></animateMotion></path>
+    <circle cx="250" cy="640" r="22" fill="#98a88e"><animateMotion dur="20" repeatCount="indefinite"><mpath xlink:href="#p3"/></animateMotion></circle>
+    </g>
+    <path fill="#dedede" d="M 1129 83 C 1058 83 999 132 999 193 C 999 199 1000 205 1001 211 C 891 213 804 246 804 286 C 804 327 897 361 1012 361 C 1082 361 1144 348 1182 329 C 1204 341 1233 348 1265 348 C 1337 348 1396 311 1396 265 C 1396 219 1337 182 1265 182 C 1263 182 1260 182 1258 182 C 1251 126 1196 83 1129 83 z ">
+    <animateMotion dur="200" repeatCount="indefinite"><mpath xlink:href="#w1"/></animateMotion></path>
+    <g id="cyan">
+    <path d="m 800,314 c -77,0 -141,48 -141,141 0,93 97,194 141,274 l 0,-415 z" style="fill:#3cadc9">
+    <animateMotion dur="150" repeatCount="indefinite"><mpath xlink:href="#p1"/></animateMotion></path>
+    <path d="m 800,314 c 78,0 142,48 142,141 0,93 -97,194 -142,274 l 0,-415 z" style="fill:#5fbcd3">
+    <animateMotion dur="150" repeatCount="indefinite"><mpath xlink:href="#p1"/></animateMotion></path>
+    <path d="m 800,730 -21,24 21,0 z" style="fill:#5fbcd3">
+    <animateMotion dur="150" repeatCount="indefinite"><mpath xlink:href="#p1"/></animateMotion></path>
+    <path d="m 800,730 21,24 -21,0 z" style="fill:#3cadc9">
+    <animateMotion dur="150" repeatCount="indefinite"><mpath xlink:href="#p1"/></animateMotion></path>
+    <path d="m 720,527 c 0,0 -25,-31 -25,-76 0,-44 28,-68 28,-68" style="fill:none;stroke:#5fbcd3;stroke-width:35;stroke-linecap:round">
+    <animateMotion dur="150" repeatCount="indefinite"><mpath xlink:href="#p1"/></animateMotion></path>
+    <circle cx="770" cy="350" r="22" fill="#5fbcd3"><animateMotion dur="150" repeatCount="indefinite"><mpath xlink:href="#p1"/></animateMotion></circle>
+    </g>
+    <g id="orchid">
+    <path d="m 567,230 c -77,0 -141,48 -141,141 0,93 97,194 141,274 l 0,-416 z" style="fill:#522165">
+    <animateMotion dur="70" repeatCount="indefinite"><mpath xlink:href="#p4"/></animateMotion></path>
+    <path d="m 567,230 c 78,0 142,48 142,141 0,93 -97,194 -142,274 l 0,-416 z" style="fill:#762f92">
+    <animateMotion dur="70" repeatCount="indefinite"><mpath xlink:href="#p4"/></animateMotion></path>
+    <path d="m 567,646 -21,24 21,0 z" style="fill:#762f92">
+    <animateMotion dur="70" repeatCount="indefinite"><mpath xlink:href="#p4"/></animateMotion></path>
+    <path d="m 567,646 21,24 -21,0 z" style="fill:#522165">
+    <animateMotion dur="70" repeatCount="indefinite"><mpath xlink:href="#p4"/></animateMotion></path>
+    <path d="m 485,443 c 0,0 -25,-31 -25,-76 0,-45 28,-69 28,-69" style="fill:none;stroke:#762f92;stroke-width:35;stroke-linecap:round">
+    <animateMotion dur="70" repeatCount="indefinite"><mpath xlink:href="#p4"/></animateMotion></path>
+    <circle cx="520" cy="270" r="22" fill="#762f92"><animateMotion dur="70" repeatCount="indefinite"><mpath xlink:href="#p4"/></animateMotion></circle>
+    </g>
+
+    <g id="gold">
+    <path d="m 900,700 c -78,0 -142,48 -142,141 0,93 97,194 142,274 l 0,-415 z" style="fill:#fc9e2f">
+    <animateMotion dur="80" repeatCount="indefinite"><mpath xlink:href="#p5"/></animateMotion></path>
+    <path d="m 900,700 c 78,0 142,48 142,141 0,93 -97,194 -142,274 l 0,-415 z" style="fill:#fdbe74">
+    <animateMotion dur="80" repeatCount="indefinite"><mpath xlink:href="#p5"/></animateMotion></path>
+    <path d="m 900,1110 -21,24 21,0 z" style="fill:#fdbe74">
+    <animateMotion dur="80" repeatCount="indefinite"><mpath xlink:href="#p5"/></animateMotion></path>
+    <path d="m 900,1110 21,24 -21,0 z" style="fill:#fc9e2f">
+    <animateMotion dur="80" repeatCount="indefinite"><mpath xlink:href="#p5"/></animateMotion></path>
+    <path d="m 820,910 c 0,0 -25,-31 -25,-76 0,-44 28,-68 28,-68" style="fill:none;stroke:#fdbe74;stroke-width:35;stroke-linecap:round">
+    <animateMotion dur="80" repeatCount="indefinite"><mpath xlink:href="#p5"/></animateMotion></path>
+    <circle cx="870" cy="740" r="22" fill="#fdbe74"><animateMotion dur="80" repeatCount="indefinite"><mpath xlink:href="#p5"/></animateMotion></circle>
+    </g>
+    <g id="silver">
+    <path d="m 1050,261 c -78,0 -142,48 -142,141 0,93 97,194 142,274 l 0,-415 z" style="fill:#bfbfbf">
+    <animateMotion dur="90" repeatCount="indefinite"><mpath xlink:href="#p6"/></animateMotion></path>
+    <path d="m 1050,261 c 78,0 142,48 142,141 0,93 -97,194 -142,274 l 0,-415 z" style="fill:#ccc">
+    <animateMotion dur="90" repeatCount="indefinite"><mpath xlink:href="#p6"/></animateMotion></path>
+    <path d="m 1050,677 -21,24 21,0 z" style="fill:#ccc">
+    <animateMotion dur="90" repeatCount="indefinite"><mpath xlink:href="#p6"/></animateMotion></path>
+    <path d="m 1050,677 21,24 -21,0 z" style="fill:#bfbfbf">
+    <animateMotion dur="90" repeatCount="indefinite"><mpath xlink:href="#p6"/></animateMotion></path>
+    <path d="m 970,474 c 0,0 -25,-31 -25,-76 0,-44 28,-68 28,-68" style="fill:none;stroke:#ccc;stroke-width:35;stroke-linecap:round">
+    <animateMotion dur="90" repeatCount="indefinite"><mpath xlink:href="#p6"/></animateMotion></path>
+    <circle cx="1010" cy="300" r="22" fill="#ccc"><animateMotion dur="90" repeatCount="indefinite"><mpath xlink:href="#p6"/></animateMotion></circle>
+    </g>
+    </svg>
+
+    <nav class="bottom-nav">
+      <router-link class="back" to="/intro">Quiz wiederholen</router-link>
+      <button type="button" name="button" @click="countDown()">WEITER</button>
+    </nav>
+</div>
+</template>
+
+<script type="text/javascript">
+  export default {
+
+    props: [
+      'questionID'
+    ],
+
+    data() {
+      return {
+
+      }
+    },
+
+    computed: {
+
+    },
+
+    methods: {
+      countDown() {
+        setTimeout(() => this.$router.push('/resultat'), 1000)
+      },
+
+    },
+    mounted() {
+      this.countDown()
+    },
+  }
+</script>
