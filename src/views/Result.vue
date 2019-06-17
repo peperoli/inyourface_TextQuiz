@@ -1,14 +1,9 @@
 <template>
-  <div class="result">
+  <div class="result page">
     <h1>{{ $parent.result.headline }}</h1>
     <p>{{ $parent.result.description }}</p>
     <br>
     <p>{{ $parent.result.spiritAnimal }}</p>
-
-    <nav class="bottom-nav">
-      <router-link class="back" to="/">Quiz wiederholen</router-link>
-      <a class="forward" href="https://iyf.ch">Weiter zu inyourface</a>
-    </nav>
 </div>
 </template>
 
@@ -25,7 +20,13 @@
     },
 
     methods: {
-      
+
+    },
+    mounted() {
+      this.$parent.bottomNav.back.label = 'Quiz wiederholen';
+      this.$parent.bottomNav.back.path = '/';
+      this.$parent.bottomNav.forward.label = '';
+      this.$parent.bottomNav.forward.path = '';
     }
   }
 </script>
